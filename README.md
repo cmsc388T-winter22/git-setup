@@ -10,4 +10,6 @@ Anthony Liu
 Michael Orlando
 
 Christopher Hasbani
+
+Elizabeth Bernhardt
 >>>>>>> 732edca506af1ed480f1ec9283d795b8f429639a
