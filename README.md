@@ -24,3 +24,5 @@ Connor Hartzog
 Ambika Sikri
 
 Chiebuka Ohams
+
+Aiden Stern
