@@ -1,5 +1,7 @@
 # git-setup
 
+Lucas Balangero
+
 Noah Sandler
 
 Anthony Liu
