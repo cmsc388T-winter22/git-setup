@@ -4,6 +4,8 @@ Lucas Balangero
 
 Noah Sandler
 
+Eric Chu
+
 Anthony Liu
 
 Michael Orlando
