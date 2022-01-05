@@ -7,6 +7,8 @@ Noah Sandler
 
 Eric Chu
 
+Nathaniel Bekele
+
 Anthony Liu
 
 Michael Orlando
@@ -37,4 +39,4 @@ Nathan Laieke
 
 Aminah Yizar
 
-Stephen Duffy
+
