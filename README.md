@@ -1,6 +1,8 @@
 # git-setup
 Shira Shamouilian
 
+Zayd Choudhury
+
 Cliff
 
 Lucas Balangero
