@@ -1,4 +1,6 @@
 # git-setup
+Shira Shamouilian
+
 Cliff
 
 Lucas Balangero
