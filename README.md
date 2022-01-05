@@ -53,3 +53,5 @@ Russell Nesbitt
 Benjamin Shasho
 
 Hank Wu
+
+Katherine Kemp
