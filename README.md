@@ -1,10 +1,17 @@
 # git-setup
+Shira Shamouilian
+
+Zayd Choudhury
+
+Cliff
 
 Lucas Balangero
 
 Noah Sandler
 
 Eric Chu
+
+Nathaniel Bekele
 
 Anthony Liu
 
@@ -34,4 +41,11 @@ Luke Perry
 
 Nathan Laieke
 
+<<<<<<< HEAD
 Samikshya Sapkota
+=======
+Aminah Yizar
+
+
+Russell Nesbitt
+>>>>>>> 51bf4d99e6ff23b0df09ebdd34cbfc1a653ae19d
