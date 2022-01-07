@@ -1,8 +1,17 @@
 # git-setup
+Shira Shamouilian
 
-Lucas Balangero
+Zayd Choudhury
+
+Cliff
+
+Lucas Balangero 
 
 Noah Sandler
+
+Eric Chu
+
+Nathaniel Bekele
 
 Anthony Liu
 
@@ -16,6 +25,7 @@ Sreekrishna Ramireddygari
 
 Michael Brown
 
+Jacob James
 Robert Schmidt
 
 Connor Hartzog
@@ -26,3 +36,39 @@ Ambika Sikri
 Chiebuka Ohams
 
 Aiden Stern
+
+Alex Srey
+
+Luke Perry
+
+Nathan Laieke
+
+
+Samikshya Sapkota
+
+Aminah Yizar
+
+
+Russell Nesbitt
+
+
+Benjamin Shasho
+
+Hank Wu
+
+Katherine Kemp
+
+Ethan Jaffee
+
+Emmy Denison
+
+Krishna Gajjala
+
+Surmud Jamil
+
+Justin Davis
+
+
+Amir Mirgeloybayat
+
+Ethan Shifflett
